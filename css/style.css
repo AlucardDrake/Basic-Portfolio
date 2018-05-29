@@ -68,14 +68,18 @@
     position: relative;
     margin-left: -200px;
     top: 50px;
+    color: #666666
 }
 .footer {
     height: 100px;
     width: 100%;
     background-color: #666666;
     position: relative;
-    top: 200px;
+    top: 350px;
 }
 .copyright {
     margin-left: 50%;
+}
+.color {
+    color: #666666
 }
