@@ -37,7 +37,7 @@
     background-image: url("../images/pattern.png");
 }
 .content {
-    height: 500px;
+    height: 600px;
     width: 1375px;
     background-color: #ffffff;
     font-size: 25px;
@@ -76,17 +76,64 @@
 }
 .footer {
     height: 75px;
-    width: 100%;
+    width: 2135px;
     background-color: #666666;
     position: relative;
-    top: 375px;
+    top: 650px;
     border-top-style: solid;
     border-top-color: lightskyblue;
     border-top-width: 3px;
+    margin-left: -500px;
+    
 }
 .copyright {
     margin-left: 50%;
 }
 .color {
     color: #666666
+}
+.name2 {
+    position: relative;
+    top: 50px;
+    margin-left: 100px;
+    display: block;
+}
+.nameinput {
+    position: relative;
+    top: 50px;
+    display: block;
+    margin-left: 100px;
+    width: 1100px;
+}
+.mail {
+    position: relative;
+    top: 75px;
+    margin-left: 100px;
+    display: block;
+}
+.mailinput {
+    position: relative;
+    top: 75px;
+    display: block;
+    margin-left: 100px;
+    width: 1100px;
+}
+.msg {
+    position: relative;
+    top: 100px;
+    margin-left: 100px;
+    display: block;
+}
+.msginput {
+    position: relative;
+    top: 120px; 
+    display: block;
+    margin-left: 100px;
+    width: 1100px;
+    height: 200px;
+}
+.button {
+    position: relative;
+    top: 150px;
+    margin-left: 1075px;
 }
