@@ -26,9 +26,9 @@
 }
 
 .about {
-    margin-left: 1400px;
+    margin-left: 1410px;
     position: relative;
-    top: -50px;
+    top: -49px;
 }
 
 .portfolio {
@@ -116,6 +116,7 @@
     top: 50px;
     margin-left: 100px;
     display: block;
+    color: black;
 }
 
 .nameinput {
@@ -131,6 +132,7 @@
     top: 75px;
     margin-left: 100px;
     display: block;
+    color: black;
 }
 
 .mailinput {
@@ -146,6 +148,7 @@
     top: 100px;
     margin-left: 100px;
     display: block;
+    color: black
 }
 
 .msginput {
@@ -160,8 +163,15 @@
 .button {
     position: relative;
     top: 150px;
-    margin-left: 1075px;
+    margin-left: 100px;
 }
+.submit {
+    height: 50px;
+    color: white;
+    background-color: #4aaaa5;
+    width: 100px;
+}
+
 
 .content2 {
     position: relative;
